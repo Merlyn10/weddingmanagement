@@ -23,10 +23,36 @@ profiles, adding the basic requirements like work, education, location, religion
 interests of the clients, and deleting profiles of the client.
 <h2>Selective Screenshots of the project<h2>
 Home Screen
+  
+  
+  
 ![Home](https://github.com/Merlyn10/weddingmanagement/assets/109803991/c6b18ce4-2a4d-46cd-abef-46ed10777ac9)
+  
+  
+  
 Adding new Profile Tab
+  
+  
+  
 ![addnewprofile](https://github.com/Merlyn10/weddingmanagement/assets/109803991/5bf145f5-61bd-4ed1-823c-829ce961583b)
+  
+  
 All USer Details
+  
+  
+  
 ![alluserdetails](https://github.com/Merlyn10/weddingmanagement/assets/109803991/06d61260-e68b-4e13-b2b9-0ca7ed310d6a)
+  
+  
+  Search By Location Tab
+  
+  
+  
 ![searchbyloc](https://github.com/Merlyn10/weddingmanagement/assets/109803991/be1ddff8-39e3-42b6-9eb0-4a7898f13eb2)
+  
+  
+  Add Location Tab
+  
+  
+  
 ![addlocation](https://github.com/Merlyn10/weddingmanagement/assets/109803991/b7c882dc-a90d-446f-a274-b8d25f0bbb7b)
