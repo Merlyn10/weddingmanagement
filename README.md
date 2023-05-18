@@ -22,6 +22,8 @@ This management system makes use of various sections like login, adding client
 profiles, adding the basic requirements like work, education, location, religion, and
 interests of the clients, and deleting profiles of the client.
 <h2>Selective Screenshots of the project<h2>
+  
+  
 Home Screen
   
   
