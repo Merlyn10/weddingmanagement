@@ -21,7 +21,7 @@ an admin or a group of admins.
 This management system makes use of various sections like login, adding client
 profiles, adding the basic requirements like work, education, location, religion, and
 interests of the clients, and deleting profiles of the client.
-<h2>Screenshots<h2>
+<h2>Selective Screenshots of the project<h2>
 
 ![Home](https://github.com/Merlyn10/weddingmanagement/assets/109803991/c6b18ce4-2a4d-46cd-abef-46ed10777ac9)
 ![addnewprofile](https://github.com/Merlyn10/weddingmanagement/assets/109803991/5bf145f5-61bd-4ed1-823c-829ce961583b)
