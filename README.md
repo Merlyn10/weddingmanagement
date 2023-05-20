@@ -41,8 +41,9 @@ All User Details
   
   
   
-![alluserdetails](https://github.com/Merlyn10/weddingmanagement/assets/109803991/06d61260-e68b-4e13-b2b9-0ca7ed310d6a)
-  
+ ![alluserdetails](https://github.com/Merlyn10/weddingmanagement/assets/109803991/83eec90e-f781-4c8e-9492-960674d3fa51)
+
+
   
   
  Add Location Tab
