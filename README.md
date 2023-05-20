@@ -88,4 +88,4 @@ Validation Messages
   
  ![Screenshot (94)](https://github.com/Merlyn10/weddingmanagement/assets/109803991/81f86172-fc37-4e69-aaa1-de51059fa164)
 ![Screenshot (93)](https://github.com/Merlyn10/weddingmanagement/assets/109803991/5de47321-3e3c-496a-b947-7366a05e544b)
-
+![Screenshot (72)](https://github.com/Merlyn10/weddingmanagement/assets/109803991/b6434ef8-4bb1-4ff2-b885-3466189ae4fa)
