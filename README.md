@@ -25,7 +25,8 @@ interests of the clients, and deleting profiles of the client.
   Home Screen
   
   
-  
+
+
 ![Home](https://github.com/Merlyn10/weddingmanagement/assets/109803991/c6b18ce4-2a4d-46cd-abef-46ed10777ac9)
   
   
