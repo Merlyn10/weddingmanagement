@@ -22,9 +22,7 @@ This management system makes use of various sections like login, adding client
 profiles, adding the basic requirements like work, education, location, religion, and
 interests of the clients, and deleting profiles of the client.
 <h2>Selective Screenshots of the project<h2>
-  
-  
-Home Screen
+  Home Screen
   
   
   
@@ -46,28 +44,47 @@ All User Details
 ![alluserdetails](https://github.com/Merlyn10/weddingmanagement/assets/109803991/06d61260-e68b-4e13-b2b9-0ca7ed310d6a)
   
   
+  
+ Add Location Tab
+  
+  
+  
+![addlocation](https://github.com/Merlyn10/weddingmanagement/assets/109803991/b7c882dc-a90d-446f-a274-b8d25f0bbb7b)
+  
+  
   Search By Location Tab
+
   
   
   
 ![searchbyloc](https://github.com/Merlyn10/weddingmanagement/assets/109803991/be1ddff8-39e3-42b6-9eb0-4a7898f13eb2)
   
   
-  Add Location Tab
-  
-  
-  
-![addlocation](https://github.com/Merlyn10/weddingmanagement/assets/109803991/b7c882dc-a90d-446f-a274-b8d25f0bbb7b)
+ Search By Job Tab
 
   
   
+   ![Screenshot (104)](https://github.com/Merlyn10/weddingmanagement/assets/109803991/36bd1d49-be88-4006-8f0f-f63510b52150)
+
   
-Validation Images
+ Search by religion tab
   
   
+ 
+![Screenshot (105)](https://github.com/Merlyn10/weddingmanagement/assets/109803991/ae0466a2-de80-4d9b-b47b-b6d0097e2cd5)
+
   
-  ![Screenshot (96)](https://github.com/Merlyn10/weddingmanagement/assets/109803991/9e91cc92-afc4-4c36-891f-4a0c38621db8)
-  ![Screenshot (94)](https://github.com/Merlyn10/weddingmanagement/assets/109803991/81f86172-fc37-4e69-aaa1-de51059fa164)
+  Delete Profile Tab
+  
+  
+  ![Screenshot (108) (1)](https://github.com/Merlyn10/weddingmanagement/assets/109803991/20931b26-0a7c-4926-9bda-829d16775f1c)
+
+  
+  
+Validation Messages
+<p>Data submitted in a form is usually validated in some way. And if there is any unacceptable data, the form is traditionally re-displayed, together with validation messages. In such a case, it is important to immediately inform screen reader users, so they know that they have to look at their data and submit again.</p>
+  
+  
+ ![Screenshot (94)](https://github.com/Merlyn10/weddingmanagement/assets/109803991/81f86172-fc37-4e69-aaa1-de51059fa164)
 ![Screenshot (93)](https://github.com/Merlyn10/weddingmanagement/assets/109803991/5de47321-3e3c-496a-b947-7366a05e544b)
 
-  
