@@ -39,7 +39,7 @@ Adding new Profile Tab
 ![addnewprofile](https://github.com/Merlyn10/weddingmanagement/assets/109803991/5bf145f5-61bd-4ed1-823c-829ce961583b)
   
   
-All USer Details
+All User Details
   
   
   
@@ -58,3 +58,16 @@ All USer Details
   
   
 ![addlocation](https://github.com/Merlyn10/weddingmanagement/assets/109803991/b7c882dc-a90d-446f-a274-b8d25f0bbb7b)
+
+  
+  
+  
+Validation Images
+  
+  
+  
+  ![Screenshot (96)](https://github.com/Merlyn10/weddingmanagement/assets/109803991/9e91cc92-afc4-4c36-891f-4a0c38621db8)
+  ![Screenshot (94)](https://github.com/Merlyn10/weddingmanagement/assets/109803991/81f86172-fc37-4e69-aaa1-de51059fa164)
+![Screenshot (93)](https://github.com/Merlyn10/weddingmanagement/assets/109803991/5de47321-3e3c-496a-b947-7366a05e544b)
+
+  
